@@ -1,5 +1,9 @@
 This is a project document.
 
 
+<<<<<<< HEAD
 This is a change made by master
+=======
+The changes made by Tester1....
+>>>>>>> Tester1
 
